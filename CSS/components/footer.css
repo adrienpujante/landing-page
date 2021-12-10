@@ -1,0 +1,55 @@
+.footer {
+	background: black;
+	font-family: 'Merriweather', serif;
+	display: flex;
+	justify-content: space-between;
+	flex-grow: 1;
+	padding: 8px;
+}
+
+.footer h2 {
+	color: #F9BF18;
+	font-size: 24px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: white;
+}
+
+.footer a:hover {
+	color: #F9BF18;
+}
+
+.footer p {
+	color: white;
+	font-size: 16px;
+}
+
+#liste-navigation {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-left: 50px;
+}
+
+#liste-reseaux-sociaux {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+li {
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+
+.footer img {
+	width: 180px;
+	height: 180px;
+	margin-right: 50px;
+}
+
+.footer-sommaire h2 {
+	margin-left: 50px;
+}

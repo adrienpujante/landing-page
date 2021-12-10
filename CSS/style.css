@@ -1,0 +1,21 @@
+@import url("components/navbar.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/card-grid.css");
+@import url("components/footer.css");
+
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+p, a {
+  font-family: 'Arial', serif;
+}
+
+body {
+  margin: 0px;
+}
